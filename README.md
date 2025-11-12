@@ -12,3 +12,10 @@ Let me see if I can then pull it again to local.
 
 Now adding a line locally again to this file (Ubunto, nano....)
 Before committing and pushing this, let me see if I can also create a Jupyter notebook here first.
+
+----
+
+Somewhat later, I have extended the Jupyter notebook.
+Including reading from a .csv file (which is stored in the same project folder).
+
+Let me now again commit and push to remote.
