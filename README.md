@@ -10,3 +10,5 @@ After succesfully pushing back the updated file to the github repository, now ed
 Let me see if I can then pull it again to local.
 
 
+Now adding a line locally again to this file (Ubunto, nano....)
+Before committing and pushing this, let me see if I can also create a Jupyter notebook here first.
