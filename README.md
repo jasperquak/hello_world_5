@@ -19,3 +19,10 @@ Somewhat later, I have extended the Jupyter notebook.
 Including reading from a .csv file (which is stored in the same project folder).
 
 Let me now again commit and push to remote.
+
+Now editing this file again directly on Github. Including some layouting such as *this text in italics* and **this text in bold**.
+Also a list:
+* bullet-point 1
+* bullet-point 2
+
+Let's see whether that does not go lost when pulling to local, updating it there, and then pushing back.
