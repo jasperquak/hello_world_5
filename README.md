@@ -46,4 +46,10 @@ With some text including **bold** and *italic*.
 
 This line is added in branch feature_1, directly on Github.
 
+-----
 
+This line is added in branch feature_2, directly on Github
+
+This line is added in branch feature_2, locally in Ubuntu (nano editor)
+
+This line is added via Marktext, while in Ubuntu branch feature_2 was checked out.
