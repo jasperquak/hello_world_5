@@ -46,4 +46,8 @@ With some text including **bold** and *italic*.
 
 This line is added in branch feature_1, directly on Github.
 
+-----
+
+This line is added in branch feature_2, directly on Github
+
 
