@@ -41,3 +41,9 @@ And now follows a Heading 3
 ### This is a heading 3
 
 With some text including **bold** and *italic*. 
+
+-----
+
+This line is added in branch feature_1, directly on Github.
+
+
